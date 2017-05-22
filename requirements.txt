@@ -1,0 +1,2 @@
+blinkpy==0.6.0
+requests==2.14.2
